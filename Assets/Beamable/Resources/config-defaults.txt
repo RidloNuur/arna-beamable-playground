@@ -1,0 +1,8 @@
+{
+    "cid": "1414125872038912",
+    "alias": "dwamdwa",
+    "pid": "DE_1414125872038913",
+    "platform": "https://api.beamable.com",
+    "socket": "https://api.beamable.com",
+    "containerPrefix": ""
+}
